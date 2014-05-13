@@ -1,0 +1,23 @@
+[33mcommit ea26e7e40f0dd55afdd8c4aa20dc20c0f30ae45f[m
+Author: root <root@localhost.localdomain>
+Date:   Tue May 13 15:22:03 2014 +0700
+
+    huy dai ca
+
+[33mcommit a95b9dab2cd79a791d4b566b421966cb31e6ca40[m
+Author: danghuy174 <danghuy174@gmail.com>
+Date:   Tue May 13 15:13:12 2014 +0700
+
+    Create Huy.txt
+
+[33mcommit 42bea9e9e57f7cf3fc513e50683e5d5dffd845f0[m
+Author: danghuy174 <danghuy174@gmail.com>
+Date:   Tue May 13 15:11:26 2014 +0700
+
+    Update README.md
+
+[33mcommit 2eb36e68b8aaff142f0a20d8c0f240e4e71cc8ba[m
+Author: danghuy174 <danghuy174@gmail.com>
+Date:   Tue May 13 01:09:24 2014 -0700
+
+    Initial commit
